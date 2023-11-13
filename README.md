@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacksen Forsberg.
+- 👋 Hi, I’m Jacksen Forsberg, this is my new GitHub!
 - 👀 I’m interested in testing my skills against individual projects on the side of school and employment.
 - 🌱 I’m currently learning data analysis and machine learning.
 - 💞️ I’m looking to collaborate on anything we both find interesting!
